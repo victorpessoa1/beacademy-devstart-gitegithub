@@ -11,8 +11,22 @@ Projeto criado para instruir os alunos do programa Devtart, quanto a utilizaçã
 
 ## Funcionalidades
 
+
+- git init
+- git status
+- git add .
+- git commit -m "Titulo do commit"
 - git stash
 - git stash pop
 - git stash list
 - git stash pop stash{1}
+- git log
+- git branch
+- git branch nome_da_branch
+- git checkout nome_da_branch
+- git clone
+- git remote -v
+- git push
+
+
 
